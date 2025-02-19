@@ -11,6 +11,7 @@ public class HelloWorld {
 		// 자바소스코드 (Example.java)
 		// 자바 컴파일러 -> 바이트 코트(Example.class)
 		// 윈도우 가상머신 -> 윈도우에서 실행 , 리눅스 자바 가상 머신 -> 리눅스에서 실행
+		// c언어 소스 코드와 차이점 -> 정리해서 Notion에 작성하기
 		System.out.println("Hello, JAVA");
 	}
 
